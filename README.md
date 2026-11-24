@@ -97,7 +97,7 @@ Step 11: Connect the GitHub Repository
 
 Action: Run the following command and replace USERNAME with your GitHub username.
 
-git remote add origin https://github.com/USERNAME/my-first-project.git
+git remote add origin https://github.com/tararhussein-rgb/week-5-software.git
 
 Expected Result: Your local repository is connected to GitHub.
 
